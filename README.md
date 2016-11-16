@@ -6,4 +6,4 @@
 
 
 + 4412-iTOP目录
-Exynos 4412:四核Cortex-A9
+>Exynos 4412:四核Cortex-A9
