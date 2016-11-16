@@ -3,7 +3,7 @@
 
 # 	4412精英版-POP核心板
 ## **Device-Drivers**
-### module
+### module目录
  + hello_driver_module
  + mini_linux-module
 
