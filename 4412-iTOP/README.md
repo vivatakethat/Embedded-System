@@ -1,15 +1,18 @@
 ![4412](http://7xsic8.com1.z0.glb.clouddn.com/4412%E7%B2%BE%E8%8B%B1%E7%89%88-POP%E6%A0%B8%E5%BF%83%E6%9D%BF.jpg "4412")
 
 
-# 	4412精英版-POP核心板
-## **Device-Drivers**
-### module目录
- + hello_driver_module
- + mini_linux-module
+# Device-Drivers目录
+设备驱动程序（Device Driver），简称驱动程序(Driver)。它是一个允许计算机软件与硬件交互的程序。
+>相当于硬件的接口
+
+
++ module
+>模块机制
 
 
 
-## 核心板参数
+
+## 4412精英版-POP核心板参数
 
 尺寸	60mm*70mm
 高度	连同连接器在内0.26cm

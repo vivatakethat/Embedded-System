@@ -1,6 +1,8 @@
 
 
 # module目录
+ + hello_driver_module
+ + mini_linux-module
 ## 模块机制
 模块机制可以在运行时加入内核的代码，这是Linux一个特性。
 >这个特性使内核可以很容易扩大或缩小。
